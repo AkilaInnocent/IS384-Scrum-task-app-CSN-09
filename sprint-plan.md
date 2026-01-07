@@ -1,6 +1,6 @@
 Sprint Plan
 
-1. Product Backlog
+1. Products Backlog
 Here are 5 prioritized tasks for the Task Management App:
 - Add new task: Allow users to create a task with title, description, and due date.
 - Assign task to user: Enable assigning tasks to specific team members via email or username.
