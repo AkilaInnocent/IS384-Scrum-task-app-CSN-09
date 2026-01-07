@@ -14,6 +14,7 @@ The goal of this sprint is to plan the core features for task creation, assignme
 3. Definition of Done (DoD)
 For a task to be considered "done" in this simulation:
 - Code outline or plan is documented and pushed to the repository.
+-feature works as expected
 - Basic tests (e.g., unit test plans) are defined and pass in simulation.
 - Documentation (e.g., how-to guides) is updated in the repo.
 - Peer review via pull request is completed and approved.
