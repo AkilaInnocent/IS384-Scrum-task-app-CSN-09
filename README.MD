@@ -11,4 +11,4 @@ Developer 2: Rwabuti, Joseph Innocent (31915/T.2023) - Handles task implementati
 Developer 3: Ngalawe, Derick Gilbert (31502/T.2023) - Focuses on testing and documentation planning.
 Developer 4: Chaula, Augustino William (31671/T.2023) - Focuses on testing and documentation planning.
 Developer 5: Luena, Gabriel Alphonce (31515/T.2023) - Tracking task completion feature
-Developer 6: Timira, Aneth Abel (30846/T.2023) - Tracking task completion feature
+Developer 6: Timira, Aneth Abel (30846/T.2023) - Tracking task completing feature
