@@ -1,12 +1,12 @@
 1. Scrum Roles.
    a. Kihega, Alpha Deniss       -Product owner.
    b. Ng'ombo, Josephine Alex    - Scrum Master.
-   c. Gwimo, Akila Innocent      -Developer 1
-   d. Rwabuti, Joseph Innocent   -Developer 2
-   e. Ngalawe, Derick Gilbert    -Developer 3
-   f. Chaula, Augustino William  -Developer 4
-   g. Luena, Gabriel Alphonce    -Developer 5
-   h. Timira, Aneth Abel         -Developer 6
+   c. Gwimo, Akila Innocent      -Developer 01
+   d. Rwabuti, Joseph Innocent   -Developer 02
+   e. Ngalawe, Derick Gilbert    -Developer 03
+   f. Chaula, Augustino William  -Developer 04
+   g. Luena, Gabriel Alphonce    -Developer 05
+   h. Timira, Aneth Abel         -Developer 06
 
 
 2. Scrum Events.
@@ -34,4 +34,5 @@
      c. Increement
      - Checking working version of the system or apllication and tested features at end of sprint.
        
+
 
