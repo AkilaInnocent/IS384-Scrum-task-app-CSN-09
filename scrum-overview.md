@@ -1,4 +1,4 @@
-1. Scrum Roles.
+1. Scrum Roles
    a. Kihega, Alpha Deniss       -Product owner.
    b. Ng'ombo, Josephine Alex    - Scrum Master.
    c. Gwimo, Akila Innocent      -Developer 1
@@ -34,4 +34,5 @@
      c. Increement
      - Checking working version of the system or apllication and tested features at end of sprint.
        
+
 
